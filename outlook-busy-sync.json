@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/michalkechner-impact/outlook-busy-sync/releases/download/v0.1.0/outlook-busy-sync_0.1.0_windows_amd64.zip",
+            "bin": [
+                "outlook-busy-sync.exe"
+            ],
+            "hash": "90bbc1d8d7af9152e26f4a033cfd1d0a490b6d8ed6f94588e20ead50e8a4b9c2"
+        }
+    },
+    "homepage": "https://github.com/michalkechner-impact/outlook-busy-sync",
+    "license": "MIT",
+    "description": "Mirror busy blocks between two Microsoft 365 calendars"
+}
