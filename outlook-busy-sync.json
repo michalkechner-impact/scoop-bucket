@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/michalkechner-impact/outlook-busy-sync/releases/download/v0.1.0/outlook-busy-sync_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/michalkechner-impact/outlook-busy-sync/releases/download/v0.2.0/outlook-busy-sync_0.2.0_windows_amd64.zip",
             "bin": [
                 "outlook-busy-sync.exe"
             ],
-            "hash": "7b56ffb9529c218fcb9c2674d84a052e87fdc621f487434901a958bc57ab0970"
+            "hash": "ed859b887e54a418ec7068abc0d6aae8a4a6059dabd2c4739afd13527458ed52"
         }
     },
     "homepage": "https://github.com/michalkechner-impact/outlook-busy-sync",
